@@ -33,7 +33,7 @@ How to play:
 
 4. Run the game:
    ```bash
-   python tuple_out.py
+   python Lamar's_Final_Tuple_Out.py
    ```
 
 ---
